@@ -10,7 +10,8 @@ Adicionar github ao localhost|`git remote add origin https://github.com/ederpbj/
 Forçar push no git|`git push -f origin master`
 Node install|`npm install`
 Adicionar mongo e express|`yarn add express mongoose`
-|``
+Add nodemon|`yarn add -D nodemon`
+.|``
 
 ## Comandos Anteriores (outros projetos)
 
