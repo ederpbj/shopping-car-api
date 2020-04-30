@@ -1,4 +1,4 @@
-Git hub do projeto [Meu git](https://github.com/ederpbj/car-redux-app).
+Git hub do projeto [Meu git](https://github.com/ederpbj/shopping-car-api).
 
 ## Comandos no terminal
 
@@ -8,6 +8,9 @@ Criar pasta iniciar projeto|`yarn init`
 Iniciar projeto git|`git init`
 Adicionar github ao localhost|`git remote add origin https://github.com/ederpbj/shopping-car-api.git`
 Forçar push no git|`git push -f origin master`
+Node install|`npm install`
+Adicionar mongo e express|`yarn add express mongoose`
+|``
 
 ## Comandos Anteriores (outros projetos)
 
