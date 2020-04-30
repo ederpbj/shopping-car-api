@@ -26,7 +26,6 @@ Adicionar react-redux|`yarn add react-redux`
 Testar com jest|`yarn test`
 Testar Toolkit|`yarn add @reduxjs/toolkit`
 
-
 ## Links Uteis 
 
 [Personalizar 1 Readme.mb](https://medium.com/@raullesteves/github-como-fazer-um-readme-md-bonit%C3%A3o-c85c8f154f8)
@@ -48,8 +47,10 @@ Testar Toolkit|`yarn add @reduxjs/toolkit`
 [Redux Toolkit](https://redux-toolkit.js.org/)
 > Facilita utilização do redux
 
+[Git hub docs](https://help.github.com/pt/github/writing-on-github/basic-writing-and-formatting-syntax)
+
 ## Aulas 
 
 [Aula 6: Desvendando o Redux #6: Desenvolvendo o Back-End | API | NodeJS | MongoDB](https://www.youtube.com/watch?v=cYXwh69HXfU&list=PLK5FPzMuRKlyILd8Jh08M6a1-htpHYzwv&index=6&ab_channel=WashingtonDeveloper)
 
-- Iniciar back-end|`yarn init`
+- Iniciar back-end| `yarn init`
