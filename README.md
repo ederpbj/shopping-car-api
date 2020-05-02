@@ -68,3 +68,14 @@ Iniciar back-end | `yarn init`
 Adicionar mongo e express|`yarn add express mongoose`
 Add nodemon|`yarn add -D nodemon`
 Startar mongo|`mongod`
+
+[Desvendando o Redux #7: Integração Part-1 | Fetch Actions | React | Redux-Thunk | NodeJS](https://www.youtube.com/watch?v=oaz1HXiXgpk&list=PLK5FPzMuRKlyILd8Jh08M6a1-htpHYzwv&index=7)
+
+Descrição | Comando
+--------- | ------
+Iniciar back-end | `yarn init`
+
+Ciclo redux
+View -> Action -> Reducer -> Store 
+<-                              <- 
+
