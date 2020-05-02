@@ -4,14 +4,14 @@ Git hub do projeto [Meu git](https://github.com/ederpbj/shopping-car-api).
 
 Descrição | Comando
 --------- | ------
-Criar pasta iniciar projeto|`yarn init`
+Criar pasta iniciar back-end |`yarn init`
 Iniciar projeto git|`git init`
 Adicionar github ao localhost|`git remote add origin https://github.com/ederpbj/shopping-car-api.git`
 Forçar push no git|`git push -f origin master`
 Node install|`npm install`
 Adicionar mongo e express|`yarn add express mongoose`
 Add nodemon|`yarn add -D nodemon`
-.|``
+Startar mongo|`mongod`
 
 ## Comandos Anteriores (outros projetos)
 
@@ -57,4 +57,9 @@ Testar Toolkit|`yarn add @reduxjs/toolkit`
 
 [Aula 6: Desvendando o Redux #6: Desenvolvendo o Back-End | API | NodeJS | MongoDB](https://www.youtube.com/watch?v=cYXwh69HXfU&list=PLK5FPzMuRKlyILd8Jh08M6a1-htpHYzwv&index=6&ab_channel=WashingtonDeveloper)
 
-- Iniciar back-end -> `yarn init`
+Descrição | Comando
+--------- | ------
+Iniciar back-end | `yarn init`
+Adicionar mongo e express|`yarn add express mongoose`
+Add nodemon|`yarn add -D nodemon`
+Startar mongo|`mongod`

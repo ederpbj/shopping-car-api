@@ -6,6 +6,9 @@
   "repository": "https://github.com/ederpbj/shopping-car-api.git",
   "author": "Eder Pires",
   "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
   "dependencies": {
     "express": "^4.17.1",
     "mongoose": "^5.9.11"
