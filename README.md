@@ -1,4 +1,6 @@
-Git hub do projeto [Meu git](https://github.com/ederpbj/shopping-car-api).
+Git hub do projeto 
+[Front-end](https://github.com/ederpbj/car-redux-app)
+[Back-and](https://github.com/ederpbj/shopping-car-api)
 
 ## Comandos no terminal
 
@@ -54,6 +56,7 @@ Testar Toolkit|`yarn add @reduxjs/toolkit`
 [Git hub docs](https://help.github.com/pt/github/writing-on-github/basic-writing-and-formatting-syntax)
 
 ## Aulas 
+[Front-end](https://github.com/ederpbj/car-redux-app)
 
 [Aula 6: Desvendando o Redux #6: Desenvolvendo o Back-End | API | NodeJS | MongoDB](https://www.youtube.com/watch?v=cYXwh69HXfU&list=PLK5FPzMuRKlyILd8Jh08M6a1-htpHYzwv&index=6&ab_channel=WashingtonDeveloper)
 
