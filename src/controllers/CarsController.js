@@ -1,6 +1,9 @@
+const Car = require('../models/Car')
 class CarsController {
-    index(req, res){
-        return res.json({message: 'Cars...'})
+    async index(req, res){
+        const cars = await Car.find()
+        return res.json(cars)
+        // return res.json({message: 'Cars...'})
     }
 }
 
