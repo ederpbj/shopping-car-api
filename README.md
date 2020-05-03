@@ -16,6 +16,7 @@ Node install|`npm install`
 Adicionar mongo e express|`yarn add express mongoose`
 Add nodemon|`yarn add -D nodemon`
 Startar mongo|`mongod`
+Para permissões de rotas|`yarn add cors`
 
 ## Comandos Anteriores (outros projetos)
 
@@ -61,6 +62,8 @@ Testar Toolkit|`yarn add @reduxjs/toolkit`
 
 [redux-thunk](https://github.com/reduxjs/redux-thunk)
 
+[ducks-modular-redux](https://github.com/erikras/ducks-modular-redux)
+
 ## Aulas 
 [Front-end](https://github.com/ederpbj/car-redux-app)
 
@@ -79,6 +82,7 @@ Ciclo redux
 View -> Action -> Reducer -> Store 
 <-                              <- 
 
+[Desvendando o Redux #8: Integração Part-2 | Duck Pattern | Fetch Actions | CORS | Redux-Thunk |](https://www.youtube.com/watch?v=oN7wuGz_sA0&list=PLK5FPzMuRKlyILd8Jh08M6a1-htpHYzwv&index=8&ab_channel=WashingtonDeveloper)
 
 
-
+Para permissões de rotas | `yarn add cors`
