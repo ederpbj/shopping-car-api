@@ -57,6 +57,10 @@ Testar Toolkit|`yarn add @reduxjs/toolkit`
 
 [Git hub docs](https://help.github.com/pt/github/writing-on-github/basic-writing-and-formatting-syntax)
 
+[Exemplo: redux](https://github.com/ederpbj/shopping-car-api/blob/master/src/assets/images/redux-md.JPG)
+
+[redux-thunk](https://github.com/reduxjs/redux-thunk)
+
 ## Aulas 
 [Front-end](https://github.com/ederpbj/car-redux-app)
 
@@ -71,11 +75,10 @@ Startar mongo|`mongod`
 
 [Desvendando o Redux #7: Integração Part-1 | Fetch Actions | React | Redux-Thunk | NodeJS](https://www.youtube.com/watch?v=oaz1HXiXgpk&list=PLK5FPzMuRKlyILd8Jh08M6a1-htpHYzwv&index=7)
 
-Descrição | Comando
---------- | ------
-Iniciar back-end | `yarn init`
-
 Ciclo redux
 View -> Action -> Reducer -> Store 
 <-                              <- 
+
+
+
 

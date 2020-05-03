@@ -9,7 +9,7 @@ class CarsController {
     
     // index = async (req, res) => {
     async index(req, res){
-        console.log(this.dao)
+        // console.log(this.dao)
 
         const cars = await Car.find()
         return res.json(cars)
