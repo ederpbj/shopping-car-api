@@ -12,6 +12,7 @@ class CarsController {
         // console.log(this.dao)
 
         const cars = await Car.find()
+        // console.log(cars)
         return res.json(cars)
         // return res.json({message: 'Cars...'}) //Teste
     }
