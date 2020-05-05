@@ -86,3 +86,5 @@ View -> Action -> Reducer -> Store
 
 
 Para permissões de rotas | `yarn add cors`
+
+[Desvendando o Redux #9: Implementando o carrinho de compras](https://www.youtube.com/watch?v=SPUGoDSKk14&list=PLK5FPzMuRKlyILd8Jh08M6a1-htpHYzwv&index=9)
