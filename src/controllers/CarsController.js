@@ -18,6 +18,9 @@ class CarsController {
     }
 
     async create(req, res) {
+        // tratamento de duplicatas, igual a login ......
+
+
     // create = async (req, res) => {
         const car = await this.dao.create(req.body)
         return res.status(201).json(car)

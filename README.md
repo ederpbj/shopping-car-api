@@ -17,6 +17,7 @@ Adicionar mongo e express|`yarn add express mongoose`
 Add nodemon|`yarn add -D nodemon`
 Startar mongo|`mongod`
 Para permissões de rotas|`yarn add cors`
+Incluindo token | `yarn add jsonwebtoken`
 
 ## Comandos Anteriores (outros projetos)
 
@@ -88,3 +89,7 @@ View -> Action -> Reducer -> Store
 Para permissões de rotas | `yarn add cors`
 
 [Desvendando o Redux #9: Implementando o carrinho de compras](https://www.youtube.com/watch?v=SPUGoDSKk14&list=PLK5FPzMuRKlyILd8Jh08M6a1-htpHYzwv&index=9)
+
+[Desvendando o Redux #11: Part-1 | Autenticação | JWT | PrivateRoute](https://www.youtube.com/watch?v=RNHr47Qqm3U&list=PLK5FPzMuRKlyILd8Jh08M6a1-htpHYzwv&index=10&ab_channel=WashingtonDeveloper)
+
+Incluindo token | `yarn add jsonwebtoken`
